@@ -1,0 +1,8 @@
+Inorder to implement google and facebook login all necessary libraries are added you just need to follow these steps
+1-Create google cloud account and setup web android ios oath credentials in web they ask you about redirect url there add https://expo.dev.io/@yourexpousername/yourslugname 
+2-create all three keys and you are good to go with google
+3-facebook login is simple just go to facebook developer account and login and create app then select loginwith facebook and go to setting in bottom left side and there just place redirect url sme redirect url https://expo.dev.io/@yourexpousername/yourslugname 
+this app is dummy app configure with this app package name and my expo account you can use is it for test purpose 
+
+for running project in developmen npx expo run:ios
+
